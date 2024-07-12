@@ -28,7 +28,7 @@ Alternatively, you can use the provided `.bat` file to install the requirements.
 1. Run the script using Python:
 
     ```sh
-    python script_name.py
+    python py.py
     ```
 
 2. Enter your `.ROBLOSECURITY` and `.RBXIDCHECK` cookies when prompted.
